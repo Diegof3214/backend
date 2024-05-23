@@ -150,5 +150,7 @@ AUTH_USER_MODEL = 'products.MyUser'
 
 CORS_ORIGIN_ALLOW_ALL = True
 
+ALLOWED_HOSTS = ['django-ecommerce-rdvw.onrender.com']
+
 # CORS_ALLOWED_ORIGINS = [
 # ]
